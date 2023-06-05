@@ -1,4 +1,16 @@
-# GraphNet
+<h1 align="center">
+  GraphNet
+</h1>
+<h2 align="center">
+  A dynamic Javascript graph library
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/scorelab/GraphNet?label=version">
+  <img src="https://img.shields.io/github/actions/workflow/status/scorelab/GraphNet/build_and_test.yml">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+  <img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/scorelab/GraphNet/develop">
+</p>
 
 Graphnet is a javascript graph library that will be created as a module to the semantic UI framework. Whereas Graphnet dynamically renders all nodes and edges via websocket connections, node and edge positioning algorithms such as force, random, circular, and others must be provided within the Graphnet as builtin modules.
 
